@@ -1,0 +1,1 @@
+docker build -f Dockerfile . -t checkersa --build-arg configyml=./configa.yml --no-cache
